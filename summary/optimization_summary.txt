@@ -1,0 +1,44 @@
+Optimization Summary (as of 2025-03-18 19:40:00)
+==================================================
+
+Total experiments: 21
+
+Best Yield: 0.9999 (Experiment 1)
+Parameters:
+  T1Celsius: 137.0000
+  t1min: 27.5000
+  T2Celsius: 155.0000
+  t2min: 47.5000
+  EquivalentsReagent1: 1.6500
+  EquivalentsBASE1: 4.4000
+  ConcentrationMolar: 0.8200
+
+Lowest Impurity: 0.0000 (Experiment 19)
+Parameters:
+  T1Celsius: 29.9639
+  t1min: 50.9149
+  T2Celsius: 39.3165
+  t2min: 26.9117
+  EquivalentsReagent1: 2.0000
+  EquivalentsBASE1: 2.7675
+  ConcentrationMolar: 0.8201
+
+Best Impurity Ratio: 9.4424 (Experiment 19)
+Parameters:
+  T1Celsius: 29.9639
+  t1min: 50.9149
+  T2Celsius: 39.3165
+  t2min: 26.9117
+  EquivalentsReagent1: 2.0000
+  EquivalentsBASE1: 2.7675
+  ConcentrationMolar: 0.8201
+
+Best Combined Score: 9.6542 (Experiment 19)
+Parameters:
+  T1Celsius: 29.9639
+  t1min: 50.9149
+  T2Celsius: 39.3165
+  t2min: 26.9117
+  EquivalentsReagent1: 2.0000
+  EquivalentsBASE1: 2.7675
+  ConcentrationMolar: 0.8201
